@@ -45,6 +45,4 @@ I independently designed and executed a comprehensive data cleaning, mapping, an
 ## Outcome
 This project provided deep insights into YouTube channel growth patterns, audience engagement strategies, and content optimization opportunities based on statistical and geographic factors.
 
----
 
-*This project was independently completed to showcase practical SQL data analysis skills on real-world datasets.*
